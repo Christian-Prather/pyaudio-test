@@ -1,6 +1,7 @@
 #include "device_api.h"
 
 #include <stdio.h>
+#define __WORDSIZE 64
 
 #ifndef PY_SSIZE_T_CLEAN
 #define PY_SSIZE_T_CLEAN

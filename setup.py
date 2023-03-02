@@ -62,7 +62,7 @@ def setup_extension():
     include_dirs = []
     external_libraries = ["portaudio"]
     external_libraries_path = []
-    extra_compile_args = ["-m64"]
+    extra_compile_args = []
     extra_link_args = []
     defines = []
 
